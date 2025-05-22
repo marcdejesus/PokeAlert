@@ -1,0 +1,4 @@
+/pokealert_env/
+.env
+
+firebase_credentials.json
