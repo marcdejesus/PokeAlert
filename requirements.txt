@@ -1,0 +1,6 @@
+discord.py==2.3.2
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+selenium==4.21.0
+webdriver-manager==4.0.1
+firebase-admin==6.5.0
